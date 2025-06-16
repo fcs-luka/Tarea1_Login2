@@ -21,8 +21,8 @@ body{
 }
     h4{
     position: absolute;
-    right: 10px;
-    bottom: 5px;
+    right: 1px;
+    bottom: 0px;
     background-color: rgba(0, 0, 0, 0.452);
     padding: 5px;
     border-radius: 5px;
@@ -135,16 +135,6 @@ img{
 
 .register{
     margin-top: 15px;
-}
-    h4{
-    position: absolute;
-    right: 1px;
-    bottom: 0px;
-    background-color: rgba(0, 0, 0, 0.452);
-    padding: 5px;
-    border-radius: 5px;
-    color: rgba(255, 255, 255, 0.473);
-    font-family: 'Poppins', sans-serif;
 }
 
 img:hover{
